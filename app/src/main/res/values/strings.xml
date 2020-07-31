@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="choose_file">Choose Face</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="upload">Book</string>
+    <string name="show_uploads">Show Faces</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_or_register">Sign In or Register</string>
+    <string name="request_login">Please enter login details.</string>
+    <string name="your_uploaded_image">Your uploaded image.</string>
+    <string name="logout">Logout</string>
+</resources>

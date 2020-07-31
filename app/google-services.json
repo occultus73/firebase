@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "279447227068",
+    "firebase_url": "https://fir-f0ba1.firebaseio.com",
+    "project_id": "fir-f0ba1",
+    "storage_bucket": "fir-f0ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279447227068:android:8e0c9bee7b47026879deb9",
+        "android_client_info": {
+          "package_name": "io.github.occultus73.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279447227068-cq0j6d9gr28fi7823i2ehco5rnco8fk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DG-JBK6VtOuS65RMZpcnSJqOwE76F8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279447227068-cq0j6d9gr28fi7823i2ehco5rnco8fk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
